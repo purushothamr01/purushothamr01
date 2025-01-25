@@ -2,7 +2,7 @@
 <h3 align="center"> whoami 
 Electronics and Communication Engineering graduate, ethical hacker, and entrepreneur passionate about cybersecurity, innovation, and creating a meaningful impact through technology.
 </h3>
-<img align="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/362/36249.gif">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/8m7nAJTYvzNUh54HQm/giphy.webp?cid=790b76116tjwlno7xskiom19q8lpvmkgyhnhb1i4xu5s366v&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purushothamr01&label=Profile%20views&color=0e75b6&style=flat" alt="purushothamr01" /> </p>
 
 - 🔭 I’m currently working on [web-info](https://github.com/purushothamr01/web-info.git)
