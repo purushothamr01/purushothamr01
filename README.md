@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img align="right" height="130" src="https://media.tenor.com/A0XPR4OCAdYAAAAM/happy-hat.gif"  />
 web-info<br>📝 I regularly write articles on https://medium.com/@Purushothamr<br>📫 How to reach me purushothamr242@gmail.com
 
 
