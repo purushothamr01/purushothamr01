@@ -42,7 +42,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Purushothamr)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/purushothamr_)  
 
-👨‍💻 *Cybersecurity: Merging Ethical Hacking, Robust Protection, and Innovative Solutions.**
+👨‍💻 Cybersecurity: Merging Ethical Hacking, Robust Protection, and Innovative Solutions.
 ---
 [![](https://visitcount.itsvg.in/api?id=purushothamr01&icon=10&color=0)](https://visitcount.itsvg.in)
 
