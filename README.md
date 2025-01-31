@@ -1,10 +1,11 @@
+
 # 💻 Whoami :
 ```shell
 > I am an ECE Engineer passionate about technology, cybersecurity, and entrepreneurship.
 > Building Taste Bloom | Cybersecurity Enthusiast | Wildlife Photographer
 > "Hack the planet, secure the future."
 ```
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=purushothamr01&label=Profile%20views&color=0e75b6&style=flat" alt="purushothamr01" /> </p>
 <h3><a href="mailto:https://medium.com/@Purushothamr" style="display: inline-block; padding: 10px 20px; font-size: 17px; font-weight: bold; color: white; background-color: 	#0000ff; text-decoration: none; border-radius: 5px;">📝 I regularly write articles on Medium</a></h3>
 <h2><a href="mailto:purushothamr242@gmail.com" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: white; background-color: #00ff00; text-decoration: none; border-radius: 5px;">🕵️‍♂️ Connect with Me</a></h2>
 
