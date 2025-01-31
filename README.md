@@ -1,7 +1,7 @@
 # 💻 Whoami :
 ```shell
 > I am an ECE Engineer passionate about technology, cybersecurity, and entrepreneurship.
-> Founder of Taste Bloom | Cybersecurity Enthusiast | Wildlife Photographer
+> Building Taste Bloom | Cybersecurity Enthusiast | Wildlife Photographer
 > "Hack the planet, secure the future."
 ```
 
