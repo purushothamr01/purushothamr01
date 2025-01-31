@@ -5,10 +5,8 @@
 > "Hack the planet, secure the future."
 ```
 
-📝 I regularly write articles on [Medium](https://medium.com/@Purushothamr)  
-
-
-<a href="mailto:purushothamr242@gmail.com" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: white; background-color: #00ff00; text-decoration: none; border-radius: 5px;">🕵️‍♂️ Connect with Me</a>
+<h3><a href="mailto:https://medium.com/@Purushothamr" style="display: inline-block; padding: 10px 20px; font-size: 17px; font-weight: bold; color: white; background-color: 	#0000ff; text-decoration: none; border-radius: 5px;">📝 I regularly write articles on Medium</a></h3>
+<h2><a href="mailto:purushothamr242@gmail.com" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: white; background-color: #00ff00; text-decoration: none; border-radius: 5px;">🕵️‍♂️ Connect with Me</a></h2>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/purushothamr_)  
