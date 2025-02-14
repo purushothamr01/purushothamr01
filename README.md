@@ -16,7 +16,7 @@
 
 ## 🏴‍☠️ Tech Stack:
 ```shell
-> C | C++ | Python | Bash | Arduino | Git | Cisco | UI/UX Design | Ethical Hacking
+> C | Python | Bash | Arduino |  Ethical Hacking
 ```
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  
 ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)  
