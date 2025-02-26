@@ -33,13 +33,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=purushothamr01&limit=5&theme=calm&combine_all_yearly_contributions=true)
 
----
-📫 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/purushothamr)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Purushothamr)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/purushothamr_)  
 
-👨‍💻 Cybersecurity: Merging Ethical Hacking, Robust Protection, and Innovative Solutions.
+
 ---
 [![](https://visitcount.itsvg.in/api?id=purushothamr01&icon=10&color=0)](https://visitcount.itsvg.in)
 
