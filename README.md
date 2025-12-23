@@ -121,11 +121,5 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> </p>
 
- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=purushothamr01&theme=dark" /> </p> 
-
-
-
-
-
 ## ☕ Support My Work
 <p align="center"> <a href="https://buymeacoffee.com/purushotham" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /> </a> </p> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> </p>
