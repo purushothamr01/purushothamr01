@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://github.com/purushothamr01/purushothamr01/blob/6a7749717de82a4085d74214cacaedebe3348e78/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png" width="900"/>
 </div>
-
+<h2 align="center">Farmer 🌾 | ECE Engineer | Security Researcher</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=purushothamr01&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
@@ -27,13 +27,14 @@
 ## 🧠 About Me
 - 🌾 Farmer by roots, technologist by passion  
 - 🎓 Electronics & Communication Engineer  
-- 🔍 Web, API & JavaScript security research  
 - ⚔️ Recon → Exploit → Impact → Report  
 - 📄 Clear, reproducible & responsible disclosures
+  
+## 🔗 Connect With Me
+<p align="center"> 
+  <a href="https://twitter.com/purushothamr01" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35"/> </a> &nbsp;&nbsp; <a href="https://linkedin.com/in/purushothamr06" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/> </a> &nbsp;&nbsp; <a href="https://medium.com/@purushothamr" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35"/> </a> </p> 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
+
 
 ## 🧪 Real Write-ups & Research
 - 🕵️‍♂️ Reading JavaScript Like a Hacker
@@ -72,15 +73,37 @@
 <tr><td>Python</td><td><img src="https://progress-bar.dev/70/?title=70%25&width=300&color=0e75b6" /></td></tr>
 </table>
 
+## 🛠️ Languages Overview
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=3776AB&center=true&vCenter=true&width=300&lines=Python%2070%25" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=F7DF1E&center=true&vCenter=true&width=300&lines=JavaScript%2080%25" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00599C&center=true&vCenter=true&width=300&lines=C%2B%2B%2060%25" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=E34F26&center=true&vCenter=true&width=300&lines=HTML%2050%25" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=1572B6&center=true&vCenter=true&width=300&lines=CSS%2045%25" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
 
 ## 🏆 Bug Bounty Hall-of-Fame
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/HackerOne_logo.svg" width="120"/>
+  <a href="https://hackerone.com" target="_blank">
+    <img src="https://img.shields.io/badge/HackerOne-%2300BFFF?style=for-the-badge&logo=hackerone&logoColor=white" />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Bugcrowd_logo.svg" width="120"/>
+  <a href="https://www.bugcrowd.com" target="_blank">
+    <img src="https://img.shields.io/badge/Bugcrowd-%23FF2D20?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.intigriti.com" target="_blank">
+    <img src="https://img.shields.io/badge/Intigriti-%231DA1F2?style=for-the-badge&logo=intigriti&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.yourcompany.com" target="_blank">
+    <img src="https://img.shields.io/badge/Other-Program-%23FF9900?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ```text
@@ -90,17 +113,19 @@
 ✔ Responsible disclosure (NDA compliant)
 ```
 <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> </p>
+
 ## ⭐ Latest Medium Articles
 <!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
 
-## ➡️ More on Medium: 
-https://medium.com/@purushothamr
+### ➡️ More on Medium: https://medium.com/@purushothamr
 
 <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> </p>
 
+ <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=purushothamr01&theme=dark" /> </p> 
 
-## 🔗 Connect With Me
-<p align="center"> <a href="https://twitter.com/purushothamr01" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35"/> </a> &nbsp;&nbsp; <a href="https://linkedin.com/in/purushothamr06" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/> </a> &nbsp;&nbsp; <a href="https://medium.com/@purushothamr" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35"/> </a> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=purushothamr01&theme=dark" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=purushothamr01&layout=compact&theme=dark" /> </p> 
+
+
+
 
 ## ☕ Support My Work
 <p align="center"> <a href="https://buymeacoffee.com/purushotham" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /> </a> </p> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> </p>
