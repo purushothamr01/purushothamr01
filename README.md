@@ -13,8 +13,9 @@
 </div>
 
 <div align="center">
-  <img src="Teal and Black Modern Programmer New LinkedIn Banner (1).png" width="900"/>
+  <img src="https://github.com/purushothamr01/purushothamr01/blob/f4380332df3451f9d67afa4d63a692f0eec668ab/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.gif" width="900"/>
 </div>
+
 <h2 align="center">Farmer 🌾 | ECE Engineer | Security Researcher</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=purushothamr01&label=Profile%20Views&color=0e75b6&style=flat" />
