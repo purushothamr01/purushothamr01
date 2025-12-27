@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/purushothamr01/purushothamr01/blob/6a7749717de82a4085d74214cacaedebe3348e78/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png" width="900"/>
+  <img src="Teal and Black Modern Programmer New LinkedIn Banner (1).png" width="900"/>
 </div>
 <h2 align="center">Farmer 🌾 | ECE Engineer | Security Researcher</h2>
 <p align="center">
