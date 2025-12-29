@@ -32,23 +32,30 @@
 - 📄 Clear, reproducible & responsible disclosures
   
 
+
 ## 🔗 Connect With Me
 <p align="center"> 
 
- <a href="https://medium.com/@purushothamr" target="_blank">
+
+
+  <a href="https://medium.com/@purushothamr" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35"/>
   </a> &nbsp; &nbsp; &nbsp;
-  
+
   <a href="https://twitter.com/purushothamr01" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35"/>
   </a> &nbsp; &nbsp; &nbsp;
 
-  <a href="https://linkedin.com/in/purushothamr06" target="_blank">
+ <a href="https://linkedin.com/in/purushothamr06" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
   </a> &nbsp; &nbsp; &nbsp;
   
   <a href="https://instagram.com/purushothamr06" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
+  </a> &nbsp; &nbsp; &nbsp;
+
+  <a href="mailto:purushothamr242@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="35"/>
   </a>
 </p>
 
@@ -140,3 +147,5 @@
 
 ## ☕ Support My Work
 <p align="center"> <a href="https://buymeacoffee.com/purushotham" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /> </a> </p> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> </p>
+
+
