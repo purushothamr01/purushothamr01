@@ -31,10 +31,26 @@
 - ⚔️ Recon → Exploit → Impact → Report  
 - 📄 Clear, reproducible & responsible disclosures
   
+
 ## 🔗 Connect With Me
 <p align="center"> 
-  <a href="https://twitter.com/purushothamr01" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35"/> </a> &nbsp;&nbsp; <a href="https://linkedin.com/in/purushothamr06" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/> </a> &nbsp;&nbsp; <a href="https://medium.com/@purushothamr" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35"/> </a> </p> 
 
+ <a href="https://medium.com/@purushothamr" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35"/>
+  </a> &nbsp; &nbsp; &nbsp;
+  
+  <a href="https://twitter.com/purushothamr01" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35"/>
+  </a> &nbsp; &nbsp; &nbsp;
+
+  <a href="https://linkedin.com/in/purushothamr06" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+  </a> &nbsp; &nbsp; &nbsp;
+  
+  <a href="https://instagram.com/purushothamr06" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
+  </a>
+</p>
 
 
 ## 🧪 Real Write-ups & Research
