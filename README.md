@@ -54,6 +54,12 @@
   <a href="mailto:purushothamr242@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="35"/>
   </a>
+
+  <!-- GitHub Logo -->
+  <a href="https://github.com/purushothamr01" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="35"/>
+  </a>
+  
 </p>
 
 
@@ -74,8 +80,12 @@
 
 ## 📂 Featured GitHub Projects
 - 🔎 **ReconKit** – Automated recon framework for bug bounty  
-  👉 https://github.com/purushothamr01/ReconKit
+ 
 
+  <!-- GitHub Logo -->
+  <a href="https://github.com/purushothamr01/ReconKit" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="35"/>
+  </a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
