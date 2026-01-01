@@ -59,7 +59,7 @@
 &nbsp; &nbsp; &nbsp;
   
 
-  <a href="mailto:purushothamr242@gmail.com">
+  <a href="gmail:purubughunting@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="35"/>
   </a>&nbsp; &nbsp; &nbsp;
 
