@@ -53,7 +53,7 @@
 
   <a href="mailto:purushothamr242@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="35"/>
-  </a>
+  </a>&nbsp; &nbsp; &nbsp;
 
   <!-- GitHub Logo -->
   <a href="https://github.com/purushothamr01" target="_blank">
