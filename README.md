@@ -33,7 +33,7 @@
 ## 🔗 Connect With Me
 <p align="center"> 
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=purushothamr242@gmail.com" target="_blank" title="Email me">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=purubughunting@gmail.com" target="_blank" title="Email me">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
        width="35"
        style="filter: invert(1);" />&nbsp; &nbsp; &nbsp;
