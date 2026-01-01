@@ -33,38 +33,38 @@
 ## 🔗 Connect With Me
 <p align="center"> 
 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=purushothamr242@gmail.com" target="_blank" title="Email me">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
+       width="35"
+       style="filter: invert(1);" />&nbsp; &nbsp; &nbsp;
 
 
-  <a href="https://medium.com/@purushothamr" target="_blank">
+
+  <a href="https://medium.com/@purushothamr" target="_blank" title="Blog">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35"/>
   </a> &nbsp; &nbsp; &nbsp;
 
-  <a href="https://twitter.com/purushothamr01" target="_blank">
+  <a href="https://twitter.com/purushothamr01" target="_blank" title="X" >
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35"/>
   </a> &nbsp; &nbsp; &nbsp;
 
- <a href="https://linkedin.com/in/purushothamr06" target="_blank">
+ <a href="https://linkedin.com/in/purushothamr06" target="_blank" title="linkedin">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
   </a> &nbsp; &nbsp; &nbsp;
   
-  <a href="https://instagram.com/purushothamr06" target="_blank">
+  <a href="https://instagram.com/purushothamr06" target="_blank" title="instagram">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
   </a> &nbsp; &nbsp; &nbsp;
 
 <!-- Telegram -->
 
-  <a href="https://t.me/purushothamr06" target="_blank">
+  <a href="https://t.me/purushothamr06" target="_blank"  title="Telegram">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="35"/>
 </a>
 &nbsp; &nbsp; &nbsp;
   
-
-  <a href="gmail:purubughunting@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="35"/>
-  </a>&nbsp; &nbsp; &nbsp;
-
-  <!-- GitHub Logo -->
-  <a href="https://github.com/purushothamr01" target="_blank">
+<!-- GitHub Logo -->
+  <a href="https://github.com/purushothamr01" target="_blank" title="GitHub" >
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="35"/>
   </a>
 
