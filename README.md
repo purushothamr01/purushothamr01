@@ -16,21 +16,18 @@
   <img src="https://github.com/purushothamr01/purushothamr01/blob/f4380332df3451f9d67afa4d63a692f0eec668ab/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.gif" width="900"/>
 </div>
 
-<h2 align="center">Farmer 🌾 | ECE Engineer | Security Researcher</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=purushothamr01&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
 
 ## 🧠 About Me
+```test
 - 🌾 Farmer by roots, technologist by passion  
 - 🎓 Electronics & Communication Engineer  
 - ⚔️ Recon → Exploit → Impact → Report  
 - 📄 Clear, reproducible & responsible disclosures
-  
+ ``` 
 
 
 ## 🔗 Connect With Me
@@ -63,12 +60,13 @@
 ## 🧪 Real Write-ups & Research
 - 🕵️‍♂️ Reading JavaScript Like a Hacker
 - 🕸️ Reflected & Stored XSS in production environments  
-- 🔐 Access control & logic-based vulnerabilities  
-- 🧠 Payload crafting, bypass techniques & recon automation
-- 🚀 The Art of Clean Recon: Amass for Bug Bounty Hunters 🐞🔍 
+- 🔍 GitHub Recon: Where the Real Bugs Quietly Begin 
 
 📌 Public write-ups on Medium  
-👉 https://medium.com/@purushothamr
+ <a href="https://medium.com/@purushothamr" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35"/>
+  </a> 
+  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
@@ -78,34 +76,39 @@
 - 🔎 **ReconKit** – Automated recon framework for bug bounty  
   👉 https://github.com/purushothamr01/ReconKit
 
-- 💥 **XSS Payloads Lab** – Real-world reflected XSS payloads  
-  👉 https://github.com/purushothamr01/reflected-xss-payloads
-
-- 🧠 **Security Notes** – Practical research notes & methodologies  
-  👉 https://github.com/purushothamr01/security-notes
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
 
 ## 📊 Skills & Proficiency
+
+
 <table>
-<tr><td>Web Security</td><td><img src="https://progress-bar.dev/85/?title=85%25&width=300&color=0e75b6" /></td></tr>
-<tr><td>JavaScript Security</td><td><img src="https://progress-bar.dev/80/?title=80%25&width=300&color=0e75b6" /></td></tr>
-<tr><td>API Security</td><td><img src="https://progress-bar.dev/75/?title=75%25&width=300&color=0e75b6" /></td></tr>
-<tr><td>Linux & Bash</td><td><img src="https://progress-bar.dev/85/?title=85%25&width=300&color=0e75b6" /></td></tr>
-<tr><td>Python</td><td><img src="https://progress-bar.dev/70/?title=70%25&width=300&color=0e75b6" /></td></tr>
+<tr>
+  <td>Web Security</td>
+  <td><img src="https://img.shields.io/badge/60%25-Intermediate-0e75b6?style=for-the-badge" /></td>
+</tr>
+<tr>
+  <td>JavaScript Security</td>
+  <td><img src="https://img.shields.io/badge/70%25-Intermediate-0e75b6?style=for-the-badge" /></td>
+</tr>
+<tr>
+  <td>API Security</td>
+  <td><img src="https://img.shields.io/badge/75%25-Advanced-0e75b6?style=for-the-badge" /></td>
+</tr>
+<tr>
+  <td>Linux & Bash</td>
+  <td><img src="https://img.shields.io/badge/70%25-Intermediate-0e75b6?style=for-the-badge" /></td>
+</tr>
+<tr>
+  <td>Python</td>
+  <td><img src="https://img.shields.io/badge/70%25-Intermediate-0e75b6?style=for-the-badge" /></td>
+</tr>
 </table>
 
-## 🛠️ Languages Overview
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=3776AB&center=true&vCenter=true&width=300&lines=Python%2070%25" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=F7DF1E&center=true&vCenter=true&width=300&lines=JavaScript%2080%25" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00599C&center=true&vCenter=true&width=300&lines=C%2B%2B%2060%25" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=E34F26&center=true&vCenter=true&width=300&lines=HTML%2050%25" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=1572B6&center=true&vCenter=true&width=300&lines=CSS%2045%25" />
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
@@ -131,17 +134,17 @@
 </p>
 
 ```text
-✔ Reflected & Stored XSS – Production applications
-✔ JavaScript-based client-side vulnerabilities
-✔ Security misconfigurations with real-world impact
-✔ Responsible disclosure (NDA compliant)
+....
 ```
 <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> </p>
 
 ## ⭐ Latest Medium Articles
 <!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
 
-### ➡️ More on Medium: https://medium.com/@purushothamr
+ <a href="https://medium.com/@purushothamr" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35"/>
+  </a> 
+
 
 <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> </p>
 
