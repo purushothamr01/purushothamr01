@@ -51,6 +51,14 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
   </a> &nbsp; &nbsp; &nbsp;
 
+<!-- Telegram -->
+
+  <a href="https://t.me/purushothamr06" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="35"/>
+</a>
+&nbsp; &nbsp; &nbsp;
+  
+
   <a href="mailto:purushothamr242@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="35"/>
   </a>&nbsp; &nbsp; &nbsp;
@@ -59,7 +67,7 @@
   <a href="https://github.com/purushothamr01" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="35"/>
   </a>
-  
+
 </p>
 
 
